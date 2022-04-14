@@ -4,7 +4,9 @@
 
 * :desktop_computer: Bioinformatician at Bioinformatic Core - Hospital de Clínicas de Porto Alegre - https://github.com/bioinfo-hcpa
 
-<h2><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on GitHub</h2>
+<br/>
+
+<h2 ><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Paola's GitHub stats</h2>
 <div align="center">
     <a>
         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paolabc&theme=tokyonight_duo&hide_border=true&include_all_commits=true&count_private=true"/>
