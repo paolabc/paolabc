@@ -2,7 +2,7 @@
 
 * :books: I'm Biologist and currently Master Student in Genetics and Molecular Biology at Universidade Federal do Rio Grande do Sul - PPGBM UFRGS http://www.ufrgs.br/ppgbm/
 
-* :desktop_computer: Bioinformatician at Bioinformatic Core - Hospital de Clínicas de Porto Alegre - https://github.com/bioinfo-hcpa
+* :desktop_computer: Bioinformatician at Bioinformatics Core - Hospital de Clínicas de Porto Alegre - https://github.com/bioinfo-hcpa
 
 <br/>
 
