@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! :dna:
 
-* :books: I'm Biologist and currently Master Student in Genetics and Molecular Biology at Universidade Federal do Rio Grande do Sul - PPGBM UFRGS http://www.ufrgs.br/ppgbm/
+* :books: I'm a Biologist and currently Master Student in Genetics and Molecular Biology at Universidade Federal do Rio Grande do Sul - PPGBM UFRGS http://www.ufrgs.br/ppgbm/
 
 * :desktop_computer: Bioinformatician at Bioinformatics Core - Hospital de Clínicas de Porto Alegre - https://github.com/bioinfo-hcpa
 
@@ -17,9 +17,14 @@
   <img align="center" alt="Paola-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Paola-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paola-R" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
+  <img align="center" alt="Paola-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Paola-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paola-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+    
+
   
+
 </div>
 
  ##
