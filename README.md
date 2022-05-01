@@ -1,4 +1,4 @@
-## Welcome to my GitHub! :dna:
+## Welcome to my GitHub Profile! :dna:
 
 * :books: I'm a Biologist and currently Master Student in Genetics and Molecular Biology at Universidade Federal do Rio Grande do Sul - PPGBM UFRGS http://www.ufrgs.br/ppgbm/
 
